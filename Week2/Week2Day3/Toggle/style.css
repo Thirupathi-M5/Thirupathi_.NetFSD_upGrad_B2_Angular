@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
