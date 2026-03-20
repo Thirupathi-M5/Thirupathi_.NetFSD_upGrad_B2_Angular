@@ -1,0 +1,14 @@
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.exe
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.deps.json
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.runtimeconfig.json
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.dll
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\net8.0\LinqCodeTemplate.pdb
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.dll
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\refint\LinqCodeTemplate.dll
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.pdb
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\LinqCodeTemplate.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\net8.0\ref\LinqCodeTemplate.dll
