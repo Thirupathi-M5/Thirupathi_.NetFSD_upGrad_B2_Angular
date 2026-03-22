@@ -51,7 +51,7 @@ A comprehensive web-based Event Management System built with HTML5, CSS3, Bootst
 ---
 
 ## 📁 Project Structure
-
+```
 EventManagementSystem/
 │
 |── style.css # Custom styles
@@ -65,7 +65,7 @@ EventManagementSystem/
 ├── admin-dashboard.html # Admin Dashboard (CRUD)
 ├── contact.html # Contact Us Page
 └── README.md # This file
-
+```
 
 ---
 
