@@ -1,1 +1,0 @@
-# Thirupathi_.NetFSD_upGrad_B2_Angular
