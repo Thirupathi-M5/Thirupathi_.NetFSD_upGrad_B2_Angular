@@ -1,10 +1,10 @@
-# 🎯 upGrad Virtual Event Management System
+#  upGrad Virtual Event Management System
 
 A comprehensive web-based Event Management System built with HTML5, CSS3, Bootstrap 5, and JavaScript. This system allows participants to explore and register for events, while admins can manage events with full CRUD operations.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
@@ -17,15 +17,15 @@ A comprehensive web-based Event Management System built with HTML5, CSS3, Bootst
 
 ---
 
-## ✨ Features
+## Features
 
-### 🧑💼 For Participants
+### For Participants
 - ✅ View all upcoming events on Home Page
 - ✅ Register for events with validation
 - ✅ Contact organization for queries
 - ✅ Responsive design for all devices
 
-### 👨‍ For Admins
+### For Admins
 - ✅ Secure login with authentication
 - ✅ Add new events with full details
 - ✅ View all events in card format
@@ -37,7 +37,7 @@ A comprehensive web-based Event Management System built with HTML5, CSS3, Bootst
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -50,7 +50,7 @@ A comprehensive web-based Event Management System built with HTML5, CSS3, Bootst
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 EventManagementSystem/
 │
@@ -69,7 +69,7 @@ EventManagementSystem/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1: Direct Open (Simple)
 1. Download/Clone this repository
@@ -85,16 +85,16 @@ EventManagementSystem/
 
 ---
 
-## 🔐 Admin Credentials
+## Admin Credentials
 
 | **Email** | `admin@upgrad.com` |
 | **Password** | `12345` |
 
-> ⚠️ **Note:** This is a frontend-only demo. In production, authentication would be handled server-side.
+> **Note:** This is a frontend-only demo. In production, authentication would be handled server-side.
 
 ------
 
-## 👨‍ Developer Info
+## Developer Info
 
 | Detail | Information |
 |--------|-------------|
@@ -108,7 +108,7 @@ EventManagementSystem/
 
 <div align="center">
 
-### 🙏 Thank you for reviewing this project!
+###  Thank you for reviewing this project!
 
 **Made with ❤️ using HTML, CSS, JavaScript & Bootstrap**
 
