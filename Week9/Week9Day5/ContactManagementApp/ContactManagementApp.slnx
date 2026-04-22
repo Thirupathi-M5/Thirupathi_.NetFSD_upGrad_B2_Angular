@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="ContactManagementApp/ContactManagementApp.csproj" />
+  <Project Path="ContactManagementTests/ContactManagementTests.csproj" />
+</Solution>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini Product Search</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        input {
+            padding: 8px;
+            width: 300px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        li {
+            padding: 10px;
+            margin: 5px auto;
+            width: 300px;
+            border: 1px solid #ccc;
+        }
+
+        .no-results {
+            color: red;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Product Search</h2>
+
+    <input type="text" id="searchInput" placeholder="Search products...">
+    <ul id="productList"></ul>
+    <p id="noResults" class="no-results"></p>
+
+<script>
+    const products = [
+        "Laptop",
+        "Mobile",
+        "Headphones",
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Camera",
+        "Smart Watch"
+    ];
+
+    const searchInput = document.getElementById("searchInput");
+    const productList = document.getElementById("productList");
+    const noResults = document.getElementById("noResults");
+
+    // Render Products
+    function renderProducts(filteredProducts) {
+        productList.innerHTML = "";
+
+        if (filteredProducts.length === 0) {
+            noResults.textContent = "No Results Found";
+            return;
+        }
+
+        noResults.textContent = "";
+
+        filteredProducts.forEach(product => {
+            const li = document.createElement("li");
+            li.textContent = product;
+            productList.appendChild(li);
+        });
+    }
+
+    // Filter Products
+    function filterProducts() {
+        const searchValue = searchInput.value.toLowerCase();
+
+        const filtered = products.filter(product =>
+            product.toLowerCase().includes(searchValue)
+        );
+
+        renderProducts(filtered);
+    }
+
+    // Event Listener (Event Delegation Example)
+    searchInput.addEventListener("input", filterProducts);
+
+    // Initial Load
+    renderProducts(products);
+</script>
+
+</body>
+</html>

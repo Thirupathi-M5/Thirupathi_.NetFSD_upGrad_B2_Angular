@@ -1,0 +1,12 @@
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week8\Week8Day1&2\AppUILayer\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

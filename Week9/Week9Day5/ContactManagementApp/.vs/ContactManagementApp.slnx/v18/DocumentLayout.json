@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementapp\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|solutionrelative:contactmanagementapp\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementapp\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|solutionrelative:contactmanagementapp\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD2D073-2726-FB0D-7038-12F819920F75}|ContactManagementTests\\ContactManagementTests.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementtests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD2D073-2726-FB0D-7038-12F819920F75}|ContactManagementTests\\ContactManagementTests.csproj|solutionrelative:contactmanagementtests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD2D073-2726-FB0D-7038-12F819920F75}|ContactManagementTests\\ContactManagementTests.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementtests\\contactmanagementtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DD2D073-2726-FB0D-7038-12F819920F75}|ContactManagementTests\\ContactManagementTests.csproj|solutionrelative:contactmanagementtests\\contactmanagementtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementapp\\contactmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|solutionrelative:contactmanagementapp\\contactmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|solutionrelative:contactmanagementapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A150BF8-5082-48CC-8E97-6CFDCFF91F2B}|Solution Items{9A150BF8-5082-48CC-8E97-6CFDCFF91F2B}|C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A150BF8-5082-48CC-8E97-6CFDCFF91F2B}|Solution Items{9A150BF8-5082-48CC-8E97-6CFDCFF91F2B}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|c:\\users\\bobby\\onedrive\\desktop\\upgrad\\daily-handson\\week9\\week9day5\\contactmanagementapp\\contactmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89FDE0E-4B4B-97DE-42F4-85E24D3B3233}|ContactManagementApp\\ContactManagementApp.csproj|solutionrelative:contactmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "ContactManagementApp\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Services\\IContactService.cs",
+              "RelativeToolTip": "ContactManagementApp\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:06:46.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "ContactManagementApp\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Services\\ContactService.cs",
+              "RelativeToolTip": "ContactManagementApp\\Services\\ContactService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:07:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementTests\\ContactServiceTests.cs",
+              "RelativeDocumentMoniker": "ContactManagementTests\\ContactServiceTests.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementTests\\ContactServiceTests.cs",
+              "RelativeToolTip": "ContactManagementTests\\ContactServiceTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:08:48.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactManagementTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementTests\\ContactManagementTests.csproj",
+              "RelativeDocumentMoniker": "ContactManagementTests\\ContactManagementTests.csproj",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementTests\\ContactManagementTests.csproj",
+              "RelativeToolTip": "ContactManagementTests\\ContactManagementTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T04:03:41.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\ContactManagementApp.csproj",
+              "RelativeDocumentMoniker": "ContactManagementApp\\ContactManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\ContactManagementApp.csproj",
+              "RelativeToolTip": "ContactManagementApp\\ContactManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T04:04:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManagementApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManagementApp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:05:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAAMBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T11:09:47.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Desktop\\UpGrad\\Daily-HandsOn\\Week9\\Week9Day5\\ContactManagementApp\\ContactManagementApp\\Program.cs",
+              "RelativeToolTip": "ContactManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:01:15.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>jQuery To-Do List</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <style>
+    .completed {
+      text-decoration: line-through;
+      color: gray;
+    }
+    li { margin-bottom: 8px; }
+  </style>
+</head>
+<body>
+
+<h2>To-Do List</h2>
+
+<input type="text" id="taskInput" placeholder="Enter task">
+<button id="addBtn">Add</button>
+
+<p>Total Tasks: <span id="totalCount">0</span></p>
+<p>Completed Tasks: <span id="completedCount">0</span></p>
+
+<ul id="taskList"></ul>
+
+<script>
+
+$(document).ready(function () {
+
+  let total = 0;
+  let completed = 0;
+
+  // Add Task
+  $("#addBtn").click(function () {
+
+    let taskText = $("#taskInput").val().trim();
+
+    if (taskText === "") return;
+
+    let taskItem = `
+      <li>
+        <span class="task-text">${taskText}</span>
+        <button class="completeBtn">✔</button>
+        <button class="deleteBtn">✖</button>
+      </li>
+    `;
+
+    $("#taskList").append(taskItem);
+
+    total++;
+    $("#totalCount").text(total);
+
+    $("#taskInput").val("");
+  });
+
+  // Mark as completed (event delegation)
+  $("#taskList").on("click", ".completeBtn", function () {
+
+    let task = $(this).siblings(".task-text");
+
+    if (!task.hasClass("completed")) {
+      task.addClass("completed");
+      completed++;
+    } else {
+      task.removeClass("completed");
+      completed--;
+    }
+
+    $("#completedCount").text(completed);
+  });
+
+  // Delete task (event delegation)
+  $("#taskList").on("click", ".deleteBtn", function () {
+
+    let task = $(this).parent();
+
+    // If task was completed, reduce completed count
+    if (task.find(".task-text").hasClass("completed")) {
+      completed--;
+      $("#completedCount").text(completed);
+    }
+
+    task.remove();
+
+    total--;
+    $("#totalCount").text(total);
+  });
+
+});
+
+</script>
+
+</body>
+</html>

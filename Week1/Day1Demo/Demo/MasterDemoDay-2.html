@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Codempower Academy</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <h2>Codempower Academy</h2>
+    <hr>
+
+    <!-- MENU -->
+    <a href="#home">Home</a> |
+    <a href="#courses">Courses</a> |
+    <a href="#register">Register</a> |
+    <a href="https://www.google.com" target="_blank">Visit Google</a>
+
+    <hr>
+
+    <!-- HOME SECTION -->
+    <h3 id="home">Home</h3>
+    <p>Welcome to Codempower Academy. We provide industry-ready IT training programs.</p>
+
+    <hr>
+
+    <!-- COURSES SECTION -->
+    <h3 id="courses">Our Courses</h3>
+    <ul>
+        <li>.NET Full Stack Development</li>
+        <li>Java Full Stack Development</li>
+        <li>MERN Stack</li>
+        <li>Data Engineering</li>
+    </ul>
+
+    <p>
+        Learn more about HTML from 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            MDN Web Docs
+        </a>
+    </p>
+
+    <hr>
+
+    <!-- REGISTRATION FORM -->
+    <h3 id="register">Student Registration Form</h3>
+
+    <form action="#" method="post">
+
+        <label>Full Name:</label><br>
+        <input type="text" name="fullname" required minlength="3"
+               placeholder="Enter your full name"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" name="email" required
+               placeholder="Enter your email"><br><br>
+
+        <label>Mobile Number:</label><br>
+        <input type="tel" name="mobile" required pattern="[0-9]{10}"
+               placeholder="Enter 10 digit mobile number"><br><br>
+
+        <label>Date of Birth:</label><br>
+        <input type="date" name="dob" required><br><br>
+
+        <label>Gender:</label><br>
+        <input type="radio" name="gender" value="Male" required> Male
+        <input type="radio" name="gender" value="Female"> Female
+        <input type="radio" name="gender" value="Other"> Other
+        <br><br>
+
+        <label>Select Course:</label><br>
+        <select name="course" required>
+            <option value="">-- Select Course --</option>
+            <option>.NET Full Stack</option>
+            <option>Java Full Stack</option>
+            <option>MERN Stack</option>
+            <option>Data Engineering</option>
+        </select><br><br>
+
+        <label>Password:</label><br>
+        <input type="password" name="password" required minlength="6"
+               placeholder="Minimum 6 characters"><br><br>
+
+        <input type="submit" value="Register">
+        <input type="reset" value="Clear Form">
+
+    </form>
+
+    <hr>
+
+    <p>© 2026 Codempower Academy | All Rights Reserved</p>
+
+</body>
+</html>

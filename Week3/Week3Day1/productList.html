@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add to Cart Counter</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <style>
+    .product { margin-bottom: 15px; }
+    .added { color: green; margin-left: 10px; }
+  </style>
+</head>
+<body>
+
+<h2>🛒 Cart Items: <span id="cartCount">0</span></h2>
+
+<div class="product">
+  <span>Laptop</span>
+  <button class="addBtn">Add to Cart</button>
+  <span class="msg"></span>
+</div>
+
+<div class="product">
+  <span>Mobile</span>
+  <button class="addBtn">Add to Cart</button>
+  <span class="msg"></span>
+</div>
+
+<div class="product">
+  <span>Headphones</span>
+  <button class="addBtn">Add to Cart</button>
+  <span class="msg"></span>
+</div>
+
+<div class="product">
+  <span>Smart Watch</span>
+  <button class="addBtn">Add to Cart</button>
+  <span class="msg"></span>
+</div>
+
+<script>
+
+$(document).ready(function () {
+
+  let count = 0;
+
+  $(".addBtn").click(function () {
+
+    // Increase cart counter
+    count++;
+    $("#cartCount").text(count);
+
+    // Disable button
+    $(this).prop("disabled", true);
+
+    // Change button text (using attr)
+    $(this).attr("value", "Added");
+
+    // Show confirmation message
+    $(this).next(".msg")
+      .text("✔ Added")
+      .addClass("added");
+
+  });
+
+});
+
+</script>
+
+</body>
+</html>

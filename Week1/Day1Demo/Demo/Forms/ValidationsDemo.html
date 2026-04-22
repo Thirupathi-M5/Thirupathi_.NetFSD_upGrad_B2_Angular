@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validations Demo</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Field Set Demo</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Form Demo</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form action="/register" method="post" novalidate>
+        <fieldset>
+            <legend>Official Details</legend>
+            <div>
+                <label for="txtCode">Code:</label>
+                <input type="number" id="txtCode" name="txtCode" min="100" max="1000" title="Please Enter code between 100-1000" placeholder="Enter your employee code" required>
+            </div>
+            <br>
+            <div>
+                <label for="txtDept">Department Name:</label>
+                <input type="text" id="txtDept" name="txtDept" minlength="2" maxlength="10" placeholder="Enter a department" value="" required>
+            </div>
+            <br>
+            <div>
+                <label for="txtEmail">Email:</label>
+                <input type="email" id="txtEmail" name="txtEmail" autocomplete="on"  placeholder="Enter an Official Email Id" value="" required>
+            </div>
+        </fieldset>
+
+        <br>
+        <fieldset>
+            <legend>Personal Details</legend>
+            <div>
+                <label for="txtName">Name:</label>
+                <input type="text" id="txtName" name="txtName" placeholder="Enter a Full Name" value="">
+            </div>
+            <br>
+            <div>
+                <label for="ddlGender">Gender</label>
+                <select id="ddlGender" name="ddlGender">
+                    <option value="">--Select--</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="cldDob">Date of Birth:</label>
+                <input type="date"  id="cldDob" name="cldDob" min="2000-01-01" max="2026-01-01"  value="">
+            </div>
+            <br>
+            <div>
+                <label for="">Country:</label>
+                <input type="radio" id="rbt1" checked name="Country" value="India">-India
+                <input type="radio" id="rbt2"  name="Country" value="Srilanka">-Srilanka
+                <input type="radio" id="rbt3"  name="Country" value="Australia">-Australia     
+            </div>
+            <br>
+            <div>
+                <label for="txtMobileNo">Mobile No:</label>
+                <input type="text" id="txtMobileNo" maxlength="10" name="txtMobileNo" required pattern="^[6-9]\d{9}$" placeholder="Enter a Mobile No">
+            </div>
+            <br>
+            <div>
+                <label for="txtAddress">Address:</label>
+                <textarea id="txtAddress" name="txtAddress" placeholder="Enter a residential address" rows="3"></textarea>
+            </div>
+            <br>
+            <div>
+                <label for="fuPhoto">Browse Photo</label>
+                <input type="file" id="fuPhoto" name="fuPhoto" accept=".jpg,.jpeg,.png" multiple>
+            </div>
+            <br>
+            <div>
+                <label for="txtPassword">Password:</label>
+                <input type="password" id="txtPassword" name="txtPassword" placeholder="Enter a Passsword" required>
+            </div>
+        </fieldset>
+        <br>
+        <div>
+            <label for="chkAgree">Agree:</label>
+            <input type="checkbox" id="chkAgree" name="chkAgree" value="chkAgree" required>
+        </div>
+        <br>
+        <div>
+            <input type="submit" id="btnSubmit" value="Submit">
+            <button type="submit" id="btnSubmit1">Submit</button>
+            <input type="reset" value="Reset">
+        </div>
+    </form>
+</body>
+</html>
+</body>
+</html>
+</body>
+</html>

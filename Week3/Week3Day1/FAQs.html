@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FAQ Section</title>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <style>
+    .faq-question {
+      cursor: pointer;
+      background: #f2f2f2;
+      padding: 10px;
+      margin-top: 5px;
+    }
+
+    .faq-answer {
+      display: none;
+      padding: 10px;
+      border: 1px solid #ddd;
+    }
+
+    .active {
+      background: #d1ecf1;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Frequently Asked Questions</h2>
+
+<div class="faq">
+
+  <div class="faq-question">What is your course duration?</div>
+  <div class="faq-answer">Our courses run for 3 to 6 months.</div>
+
+  <div class="faq-question">Do you provide certificates?</div>
+  <div class="faq-answer">Yes, we provide industry-recognized certificates.</div>
+
+  <div class="faq-question">Is there placement support?</div>
+  <div class="faq-answer">Yes, we offer 100% placement assistance.</div>
+
+  <div class="faq-question">Are classes online?</div>
+  <div class="faq-answer">We provide both online and offline classes.</div>
+
+  <div class="faq-question">Do you offer internships?</div>
+  <div class="faq-answer">Yes, internships are included in the program.</div>
+
+</div>
+
+<script>
+
+$(document).ready(function () {
+
+  $(".faq-question").click(function () {
+
+    // Toggle answer
+    $(this).next(".faq-answer").slideToggle();
+
+    // Highlight selected question
+    $(this).toggleClass("active");
+
+  });
+
+});
+
+</script>
+
+</body>
+</html>

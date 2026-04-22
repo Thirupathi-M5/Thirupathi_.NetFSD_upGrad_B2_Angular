@@ -1,0 +1,28 @@
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.exe
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.deps.json
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.runtimeconfig.json
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.dll
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.pdb
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.AssemblyInfoInputs.cache
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.AssemblyInfo.cs
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.dll
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\refint\ContactManagementApp.dll
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.pdb
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.genruntimeconfig.cache
+C:\Users\Bobby\Downloads\Project2 UVEMS sunday\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ref\ContactManagementApp.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.exe
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\bin\Debug\net8.0\ContactManagementApp.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\refint\ContactManagementApp.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ContactManagementApp.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\Daily-HandsOn\Week9\Week9Day5\ContactManagementApp\ContactManagementApp\obj\Debug\net8.0\ref\ContactManagementApp.dll

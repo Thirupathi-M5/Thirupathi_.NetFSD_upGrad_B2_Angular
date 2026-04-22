@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Form Demo</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form action="/register" method="post">
+        <div>
+            <label for="txtCode">Code:</label>
+            <input type="number" id="txtCode" name="txtCode" placeholder="Enter your employee code">
+        </div>
+        <br>
+        <div>
+            <label for="txtName">Name:</label>
+            <input type="text" id="txtName" name="txtName" placeholder="Enter a Full Name" value="">
+        </div>
+        <br>
+         <div>
+            <label for="">Email:</label>
+            <input type="email" id="txtEmail" name="txtEmail" placeholder="Enter an Official Email Id" value="">
+        </div>
+        <br>
+        <div>
+            <label for="ddlGender">Gender</label>
+            <select id="ddlGender" name="ddlGender">
+                <option value="">--Select--</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="cldDob">Date of Birth:</label>
+            <input type="date" id="cldDob" name="cldDob" value="">
+        </div>
+        <br>
+        <div>
+            <label for="">Country:</label>
+            <input type="radio" id="rbt1" checked name="Country" value="India">-India
+            <input type="radio" id="rbt2"  name="Country" value="Srilanka">-Srilanka
+            <input type="radio" id="rbt3"  name="Country" value="Australia">-Australia     
+        </div>
+        <br>
+        <div>
+            <label for="txtAddress">Address:</label>
+            <textarea id="txtAddress" name="txtAddress" placeholder="Enter a residential address" rows="3"></textarea>
+        </div>
+        <br>
+        <div>
+            <label for="fuPhoto">Browse Photo</label>
+            <input type="file" id="fuPhoto" name="fuPhoto" accept=".jpg,.jpeg,.png" multiple>
+        </div>
+        <br>
+        <div>
+            <label for="txtPassword">Password:</label>
+            <input type="password" id="txtPassword" name="txtPassword" placeholder="Enter a Passsword">
+        </div>
+        <br>
+        <div>
+            <label for="chkAgree">Agree:</label>
+            <input type="checkbox" id="chkAgree" name="chkAgree" value="chkAgree">
+        </div>
+        <br>
+        <div>
+            <input type="submit" id="btnSubmit" value="Submit">
+            <button type="submit" id="btnSubmit1">Submit</button>
+            <input type="reset" value="Reset">
+        </div>
+    </form>
+</body>
+</html>
