@@ -1,0 +1,54 @@
+<h2>Reactive Contact Form</h2>
+
+<form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+
+  <label>Name:</label>
+  <input type="text" formControlName="name">
+  <div *ngIf="f['name'].invalid && (f['name'].touched || f['name'].dirty)">
+    Name is required
+  </div>
+
+  <label>Email:</label>
+  <input type="email" formControlName="email">
+  <div *ngIf="f['email'].invalid && (f['email'].touched || f['email'].dirty)">
+    Enter a valid email
+  </div>
+
+  <label>Phone:</label>
+  <input type="text" formControlName="phone">
+  <div *ngIf="f['phone'].invalid && (f['phone'].touched || f['phone'].dirty)">
+    Phone must be 10 digits
+  </div>
+
+  <label>
+    <input type="checkbox" formControlName="isActive">
+    Active
+  </label>
+
+  <br><br>
+
+  <button type="submit">Add Contact</button>
+
+</form>
+
+<hr>
+
+<h2>Contact List</h2>
+
+<table *ngIf="contacts.length > 0">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Phone</th>
+    <th>Status</th>
+  </tr>
+
+  <tr *ngFor="let contact of contacts">
+    <td>{{ contact.contactId }}</td>
+    <td>{{ contact.name }}</td>
+    <td>{{ contact.email }}</td>
+    <td>{{ contact.phone }}</td>
+    <td>{{ contact.isActive ? 'Active' : 'Inactive' }}</td>
+  </tr>
+</table>

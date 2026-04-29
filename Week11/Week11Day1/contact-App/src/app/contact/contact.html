@@ -1,0 +1,77 @@
+<h2>Contact Entry Form</h2>
+
+<form #contactForm="ngForm" (ngSubmit)="onSubmit(contactForm)">
+
+  <label>Name:</label>
+  <input
+    type="text"
+    name="name"
+    [(ngModel)]="newContact.name"
+    #name="ngModel"
+    required>
+
+  <div *ngIf="name.invalid && (name.touched || name.dirty)">
+    Name is required
+  </div>
+
+  <label>Email:</label>
+  <input
+    type="email"
+    name="email"
+    [(ngModel)]="newContact.email"
+    #email="ngModel"
+    required
+    email>
+
+  <div *ngIf="email.invalid && (email.touched || email.dirty)">
+    Valid email is required
+  </div>
+
+  <label>Phone:</label>
+  <input
+    type="text"
+    name="phone"
+    [(ngModel)]="newContact.phone"
+    #phone="ngModel"
+    required
+    minlength="10">
+
+  <div *ngIf="phone.invalid && (phone.touched || phone.dirty)">
+    Phone must be 10 digits
+  </div>
+
+  <label>
+    <input
+      type="checkbox"
+      name="isActive"
+      [(ngModel)]="newContact.isActive">
+    Active
+  </label>
+
+  <br><br>
+
+  <button type="submit">Add Contact</button>
+
+</form>
+
+<hr>
+
+<h2>Contact List</h2>
+
+<table *ngIf="contacts.length > 0">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Phone</th>
+    <th>Status</th>
+  </tr>
+
+  <tr *ngFor="let contact of contacts">
+    <td>{{ contact.contactId }}</td>
+    <td>{{ contact.name }}</td>
+    <td>{{ contact.email }}</td>
+    <td>{{ contact.phone }}</td>
+    <td>{{ contact.isActive ? 'Active' : 'Inactive' }}</td>
+  </tr>
+</table>
