@@ -1,0 +1,27 @@
+﻿@model List<DAL.Models.EventDetails>
+
+<h2>Events</h2>
+
+<a href="/Event/Create">Add Event</a>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Date</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EventName</td>
+            <td>@item.EventCategory</td>
+            <td>@item.EventDate</td>
+            <td>
+                <a href="/Event/Edit/@item.EventId">Edit</a> |
+                <a href="/Event/Delete/@item.EventId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

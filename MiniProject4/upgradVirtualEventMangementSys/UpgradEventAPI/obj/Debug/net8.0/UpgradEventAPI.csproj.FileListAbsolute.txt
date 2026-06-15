@@ -1,0 +1,304 @@
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.staticwebassets.endpoints.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.exe
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\scopedcss\bundle\UpgradEventAPI.styles.css
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEv.C10DA005.Up2Date
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\refint\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\ref\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.staticwebassets.endpoints.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.exe
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\scopedcss\bundle\UpgradEventAPI.styles.css
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEv.C10DA005.Up2Date
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\refint\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\ref\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.staticwebassets.endpoints.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.exe
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.deps.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.sourcelink.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\scopedcss\bundle\UpgradEventAPI.styles.css
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEv.C10DA005.Up2Date
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\refint\UpgradEventAPI.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.pdb
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\UpgradEventAPI.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\UpgradEventAPI\obj\Debug\net8.0\ref\UpgradEventAPI.dll

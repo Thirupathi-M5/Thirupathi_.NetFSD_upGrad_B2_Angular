@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DAL/DAL.csproj" />
+  <Project Path="UpgradEvent.Tests/UpgradEvent.Tests.csproj" Id="dbf2f449-a3e0-4a60-a877-06abf1a8533d" />
+  <Project Path="UpgradEventAPI/UpgradEventAPI.csproj" Id="216c555b-6975-4942-9e83-af0f734f31ac" />
+</Solution>

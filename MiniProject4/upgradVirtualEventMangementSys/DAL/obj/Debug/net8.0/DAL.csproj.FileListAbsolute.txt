@@ -1,0 +1,91 @@
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Hi\OneDrive\Pictures\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Bobby\Downloads\upgradVirtualEventMangementSys\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Bobby\Downloads\UpGrad MiniProject2\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject3\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Desktop\UpGrad\UpGrad Projects\MiniProject4 testing\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\appSettings.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Bobby\OneDrive\Pictures\UpGrad\MiniProject4\upgradVirtualEventMangementSys\DAL\obj\Debug\net8.0\ref\DAL.dll

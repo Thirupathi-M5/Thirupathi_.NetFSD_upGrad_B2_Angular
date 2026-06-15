@@ -1,0 +1,39 @@
+﻿@model DAL.Models.EventDetails
+
+<h2>Edit Event</h2>
+
+<form method="post">
+    <input type="hidden" name="EventId" value="@Model.EventId" />
+
+    <div>
+        <label>Name</label>
+        <input type="text" name="EventName" value="@Model.EventName" />
+    </div>
+
+    <div>
+        <label>Category</label>
+        <input type="text" name="EventCategory" value="@Model.EventCategory" />
+    </div>
+
+    <div>
+        <label>Date</label>
+        <input type="datetime-local" name="EventDate" value="@Model.EventDate.ToString("yyyy-MM-ddTHH:mm")" />
+    </div>
+
+    <div>
+        <label>Description</label>
+        <input type="text" name="Description" value="@Model.Description" />
+    </div>
+
+    <div>
+        <label>Status</label>
+        <select name="Status">
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+    </div>
+
+    <br />
+
+    <button type="submit">Update</button>
+</form>

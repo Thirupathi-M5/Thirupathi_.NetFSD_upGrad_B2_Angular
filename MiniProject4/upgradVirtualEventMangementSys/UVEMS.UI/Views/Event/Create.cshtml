@@ -1,0 +1,37 @@
+﻿@model DAL.Models.EventDetails
+
+<h2>Create Event</h2>
+
+<form method="post">
+    <div>
+        <label>Name</label>
+        <input type="text" name="EventName" />
+    </div>
+
+    <div>
+        <label>Category</label>
+        <input type="text" name="EventCategory" />
+    </div>
+
+    <div>
+        <label>Date</label>
+        <input type="datetime-local" name="EventDate" />
+    </div>
+
+    <div>
+        <label>Description</label>
+        <input type="text" name="Description" />
+    </div>
+
+    <div>
+        <label>Status</label>
+        <select name="Status">
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+    </div>
+
+    <br />
+
+    <button type="submit">Create</button>
+</form>

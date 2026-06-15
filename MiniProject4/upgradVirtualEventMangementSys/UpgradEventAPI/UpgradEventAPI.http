@@ -1,0 +1,6 @@
+@UpgradEventAPI_HostAddress = http://localhost:5079
+
+GET {{UpgradEventAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

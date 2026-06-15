@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\dal\\dataaccess\\eventdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\dal\\dataaccess\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF2F449-A3E0-4A60-A877-06ABF1A8533D}|UpgradEvent.Tests\\UpgradEvent.Tests.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradevent.tests\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF2F449-A3E0-4A60-A877-06ABF1A8533D}|UpgradEvent.Tests\\UpgradEvent.Tests.csproj|solutionrelative:upgradevent.tests\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\models\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\models\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\dal\\dataaccess\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\models\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\models\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|c:\\users\\bobby\\onedrive\\pictures\\upgrad\\miniproject4\\upgradvirtualeventmangementsys\\upgradeventapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C555B-6975-4942-9E83-AF0F734F31AC}|UpgradEventAPI\\UpgradEventAPI.csproj|solutionrelative:upgradeventapi\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Services\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\ParticipantService.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Services\\ParticipantService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:34:15.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\AddDbContext.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\AddDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:36:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\EventDetailsService.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventDetailsService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\EventDetailsService.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\EventDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:25:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEvent.Tests\\EventServiceTests.cs",
+              "RelativeDocumentMoniker": "UpgradEvent.Tests\\EventServiceTests.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEvent.Tests\\EventServiceTests.cs",
+              "RelativeToolTip": "UpgradEvent.Tests\\EventServiceTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:03:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEventRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\CreateEventRequest.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Models\\CreateEventRequest.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\CreateEventRequest.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Models\\CreateEventRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:56:39.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Program.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:01:55.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:18:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:17:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\UserInfoService.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\UserInfoService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\DAL\\DataAccess\\UserInfoService.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\UserInfoService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:24:14.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:19:05.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:19:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:18:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\UserRegisterRequest.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Models\\UserRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Models\\UserRegisterRequest.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Models\\UserRegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:57:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:17:38.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "UpgradEventAPI\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\Bobby\\OneDrive\\Pictures\\UpGrad\\MiniProject4\\upgradVirtualEventMangementSys\\UpgradEventAPI\\Services\\EventService.cs",
+              "RelativeToolTip": "UpgradEventAPI\\Services\\EventService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:46:29.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
